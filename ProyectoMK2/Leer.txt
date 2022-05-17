@@ -1,0 +1,1 @@
+Primero tiene que importar la base de datos para que funcione correctamente el programa
